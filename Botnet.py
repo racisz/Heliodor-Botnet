@@ -48,7 +48,7 @@ print(' \nIP > ')
 ip = input()
 
 
-print(' \nPORT > ')
+print('\nPORT > ')
 
 port = input()
 
