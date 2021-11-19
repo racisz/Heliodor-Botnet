@@ -35,27 +35,20 @@ $$/   $$/  $$$$$$$/ $$/ $$/  $$$$$$/   $$$$$$$/  $$$$$$/  $$/
                                                                      """)
 
 # Inputs
-print('> MADE BY CHMVREK <')
+print('> MADE BY CHMVREK <\n')
 
-print('')
-
-print('*Remember to change your IP to avoid rate-limit.*')
-
-print('')
+print('*Remember to change your IP to avoid rate-limit.*\n')
 
 print('METHODS > UBNT, MDNS, MSSQL, BLUESYN, CHINADOS, SYN9, GREENSYN, TCP-AMP, MEMCACHED, PMS, ISAKMP, ACK, TFTP, DOMINATE, SSYN, LDAP, VSE, SNMP, NBS, UDP, ZUDP, SSDP')
 
 method = input()
 
-print('')
-
-print('IP > ')
+print(' \nIP > ')
 
 ip = input()
 
-print('')
 
-print('PORT > ')
+print(' \nPORT > ')
 
 port = input()
 
