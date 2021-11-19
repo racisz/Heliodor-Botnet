@@ -14,6 +14,7 @@ import requests
 import random
 import string
 import math
+import os
 
 # Color, Title, Size
 system("title Heliodor - Waiting for DDOS")
