@@ -43,7 +43,7 @@ print('METHODS > UBNT, MDNS, MSSQL, BLUESYN, CHINADOS, SYN9, GREENSYN, TCP-AMP, 
 
 method = input()
 
-print(' \nIP > ')
+print('\nIP > ')
 
 ip = input()
 
